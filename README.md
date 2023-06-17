@@ -8,7 +8,6 @@ Results-driven Ruby on Rails and React.js Full Stack Developer with 3+ years of 
 
 *   🌍  I'm based in Cameroon
 *   ✉️  You can contact me at [albertngodi@gmail.com](mailto:albertngodi@gmail.com)
-*   🧠  I'm learning DevOps
 *   🤝  I'm open to collaborating on Interesting and challenging projects### Skills 
 <p align="left">
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
